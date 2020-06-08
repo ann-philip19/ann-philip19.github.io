@@ -17,6 +17,7 @@ The CIT minor consists of six classes:
   4. **CIT 281 Web App Dev 1.** Unix, Git, RESTful Web Apps: NodeJS, Express, MongoDB.
 
           > 281 Project Repos on Github
+
               - [Project 5](https://uo-cit.github.io/project-5-ann-philip19/)
               - Project 4
               - Project 3
@@ -27,4 +28,5 @@ The CIT minor consists of six classes:
             > [111 Projects](https://pages.uoregon.edu/aphilip/111/)
 
    6. **CIS 110 Fluency with IT.** Computer Science Principles, HTML, CSS.
+
             > [110 Projects](https://pages.uoregon.edu/aphilip/110/)
